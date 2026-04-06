@@ -24,7 +24,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 ## Table of Contents
 
-- [Agents Arena](#agentsarena)
+- [Agents Arena](#agents-arena)
 - [Agent Zero](#agent-zero)
 - [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
